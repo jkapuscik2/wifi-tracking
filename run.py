@@ -2,7 +2,7 @@ import scapy.all as sp
 import sys
 from datetime import datetime
 
-IFACE_NAME = "git"
+IFACE_NAME = ""
 TIMEOUT = 5
 PROBE_REQUEST_TYPE = 0
 PROBE_REQUEST_SUBTYPE = 4
